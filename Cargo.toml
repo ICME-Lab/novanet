@@ -2,5 +2,7 @@
 name = "novanet"
 version = "0.1.0"
 edition = "2021"
+description = "decentralized peer-to-peer zero-knowledge proof network"
+license = "MIT"
 
 [dependencies]
